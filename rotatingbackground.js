@@ -1,12 +1,6 @@
 (function() {
   backgrounds = [
-    "https://my.foxgirlsare.sexy/static/felix2.png",
-    "https://my.foxgirlsare.sexy/static/lost%20at%20sea%204.jpg",
-    "https://my.foxgirlsare.sexy/static/dance%20with%20the%20spirits%202.jpg",
-    "https://my.foxgirlsare.sexy/static/flow%20of%20souls%202.jpg",
-    "https://my.foxgirlsare.sexy/static/moonlight%20night%202.jpg",
-    "https://my.foxgirlsare.sexy/static/felix1.jpg",
-    "https://my.foxgirlsare.sexy/static/felix3.png",
+    "https://www.dropbox.com/s/f40upjzs5jtd2yv/thumb-1920-701999.jpg?dl=1"
   ];
 
   var currentIndex = getRandomInt(0, backgrounds.length - 1)
