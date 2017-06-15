@@ -1,6 +1,6 @@
 (function() {
   backgrounds = [
-    "https://cdn.discordapp.com/attachments/316647045773524992/324952436055736320/thumb-1920-701999.jpg"
+    "https://cdn.discordapp.com/attachments/316647045773524992/324952436055736320/thumb-1920-701999.jpg",
   ];
 
   var currentIndex = getRandomInt(0, backgrounds.length - 1)
