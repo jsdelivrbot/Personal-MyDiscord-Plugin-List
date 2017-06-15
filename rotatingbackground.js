@@ -1,6 +1,5 @@
 (function() {
   backgrounds = [
-    "",
     "http://fungyung.com/data/out/61/62870137-k-project-wallpapers.jpg",
   ];
 
