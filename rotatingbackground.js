@@ -1,6 +1,6 @@
 (function() {
   backgrounds = [
-    "http://www.desktop-screens.com/data/out/61/3034319-k-project-wallpapers.jpg",
+    "http://34.203.234.180/index.php/s/od1Mp2cs5ujqR9a/download",
   ];
 
   var currentIndex = getRandomInt(0, backgrounds.length - 1)
