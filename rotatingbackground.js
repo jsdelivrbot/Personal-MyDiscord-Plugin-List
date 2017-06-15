@@ -1,6 +1,6 @@
 (function() {
   backgrounds = [
-    "http://fungyung.com/data/out/61/62870137-k-project-wallpapers.jpg",
+    "http://www.desktop-screens.com/data/out/61/3034319-k-project-wallpapers.jpg",
   ];
 
   var currentIndex = getRandomInt(0, backgrounds.length - 1)
