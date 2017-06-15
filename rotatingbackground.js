@@ -1,6 +1,6 @@
 (function() {
   backgrounds = [
-    "http://static.zerochan.net/Yatogami.Kuroh.full.1359059.jpg",
+    "",
     "http://fungyung.com/data/out/61/62870137-k-project-wallpapers.jpg",
   ];
 
