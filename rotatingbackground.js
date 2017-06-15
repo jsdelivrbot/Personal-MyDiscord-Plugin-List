@@ -1,6 +1,9 @@
 (function() {
   backgrounds = [
-    "https://cdn.discordapp.com/attachments/316647045773524992/324952436055736320/thumb-1920-701999.jpg",
+    "http://static.zerochan.net/Yatogami.Kuroh.full.1359059.jpg",
+    "http://cdn.wallpapersafari.com/55/61/fIcg4P.jpg",
+    "http://fungyung.com/data/out/61/62839689-k-project-wallpapers.jpg",
+    "http://img.pconline.com.cn/images/upload/upc/tx/wallpaper/1301/21/c0/17582218_1358742073462.jpg",
   ];
 
   var currentIndex = getRandomInt(0, backgrounds.length - 1)
