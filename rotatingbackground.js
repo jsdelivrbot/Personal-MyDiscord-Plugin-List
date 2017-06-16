@@ -3,6 +3,12 @@
     "http://i.imgur.com/JuMdLBB.jpg",
     "http://i.imgur.com/nFrvLMO.jpg",
     "https://i.imgur.com/fIkaKnK.jpg",
+    "http://i.imgur.com/MX3fDMA.jpg",
+    "http://i.imgur.com/OVKLgET.jpg",
+    "http://i.imgur.com/Y8ozn71.jpg",
+    "http://i.imgur.com/947agi9.jpg",
+    "http://i.imgur.com/Lu39kSx.jpg",
+    "http://i.imgur.com/PJNT590.jpg",
   ];
 
   var currentIndex = getRandomInt(0, backgrounds.length - 1)
