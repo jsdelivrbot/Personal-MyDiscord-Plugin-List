@@ -2,7 +2,7 @@
   backgrounds = [
     "http://i.imgur.com/JuMdLBB.jpg",
     "http://i.imgur.com/nFrvLMO.jpg",
-    "https://i.imgur.com/fIkaKnK.jpg",
+    "http://i.imgur.com/fIkaKnK.jpg",
     "http://i.imgur.com/MX3fDMA.jpg",
     "http://i.imgur.com/OVKLgET.jpg",
     "http://i.imgur.com/Y8ozn71.jpg",
