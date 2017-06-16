@@ -1,6 +1,6 @@
 (function() {
   backgrounds = [
-    "http://34.203.234.180/index.php/s/od1Mp2cs5ujqR9a/download",
+    "http://wallpaper-gallery.net/images/k-anime-wallpaper/k-anime-wallpaper-22.jpg",
   ];
 
   var currentIndex = getRandomInt(0, backgrounds.length - 1)
