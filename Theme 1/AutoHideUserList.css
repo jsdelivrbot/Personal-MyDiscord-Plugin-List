@@ -1,0 +1,9 @@
+@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/autoMemberlist.css";
+
+/*
+Fix for userlist color
+*/
+
+.channel-members-wrap {
+	background: rgba(0, 0, 0, 0.5);
+}
