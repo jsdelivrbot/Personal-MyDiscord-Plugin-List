@@ -41,42 +41,5 @@
 */
 
 .channel-members-wrap {
-	position: absolute !important;
-	right: -150px;
-	height: 100%;
-	transition: 2s;
-	margin-left: 100%;
 	background: rgba(0, 0, 0, 0.5);
-	z-index: 1;
-}
-
-.channel-members-wrap .member .member-inner,
-.channel-members-wrap .channel-members h2 {
-	animation: fadeout 1s;
-	-webkit-animation-fill-mode: forwards;
-}
-
-.channel-members-wrap:hover {
- 	transition: 0.5s;
-	right: 0px;
-	background: rgba(0, 0, 0, 0.3);
-}
-
-.channel-members-wrap:hover .member .member-inner,
-.channel-members-wrap:hover .channel-members h2 {
-	animation: fadein 0.5s;
-	-webkit-animation-fill-mode: forwards;
-}
-
-@keyframes fadein {
-	from {opacity: 0}
-	to {opacity: 1}
-}
-
-@keyframes fadeout {
-	to {opacity: 0}
-}
-
-.chat:not(.private) .content {
-	padding-right: 90px;
 }
