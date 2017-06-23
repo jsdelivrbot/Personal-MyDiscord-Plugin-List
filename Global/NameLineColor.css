@@ -1,0 +1,8 @@
+/*this is my code for the line before names*/
+.comment .user-name:before {
+    color: rgba(inherit, inherit, inherit, 0);
+    content: '	 ';
+    border-left: solid 3px;
+    border-radius: 5px;
+    margin-right: 3px
+}
