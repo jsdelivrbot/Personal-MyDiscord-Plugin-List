@@ -1,0 +1,17 @@
+@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/autoMemberlist.css";
+
+/*
+Fix for the bottom of the user list
+*/
+
+.channel-members-wrap {
+	height: 95.4%
+}
+
+/*
+Remove Quiet logo
+*/
+
+.channel-members::after {
+	content: ""
+}
