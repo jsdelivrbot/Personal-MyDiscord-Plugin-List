@@ -1,5 +1,6 @@
 @import "https://rawgit.com/0mniscient/Discord-Themes/master/css/Quiet.css";
 @import "https://rawgit.com/ConnerItayi/Personal-MyDiscord-Plugin-List/master/Quiet/AutoHideUserList.css";
 @import "https://rawgit.com/ConnerItayi/Personal-MyDiscord-Plugin-List/master/Quiet/Transparency.css";
+@import "https://rawgit.com/ConnerItayi/Personal-MyDiscord-Plugin-List/master/Global/NameLineColor.css";
 .message-group:not(.compact) .avatar-large[style*="/a_"] ~ .comment .body h2:before{content:"nitro";position:relative;margin:0 0 0 5px;padding:3px 4px 2px 3px;color:#fff;font-size:10px;text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);text-transform:uppercase;background-color:var(--main-color);border-radius:3px;order:2;height:100%;top: 4px !important;}
 .message-group:not(.compact) .avatar-large[style*="168118999337402368"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="168118999337402368"] ~ .member-inner .member-username .member-username-inner::after{content:"Conner";color:#fff;background:#7289da;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;}
