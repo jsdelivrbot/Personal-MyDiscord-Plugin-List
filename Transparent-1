@@ -1,0 +1,11 @@
+@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/transparent.css";
+
+.app {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.app .layers {
+    background-color: rgba(0, 0, 0, 0.85)!important;
+}
