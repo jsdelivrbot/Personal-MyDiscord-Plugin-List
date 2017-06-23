@@ -1,0 +1,32 @@
+@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/transparent.css";
+
+.app {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+.app .layers {
+    background-color: rgba(0, 0, 0, 0.85)!important;
+}
+
+.channel-members {
+	background-color: rgba(0, 0, 0, 0)!important;
+}
+
+.channel-members::after {
+	border-top: 0px!important;
+	background-color: rgba(0, 0, 0, 0.3)!important;
+}
+
+div.message-group {
+	background-color: transparent;
+}
+
+.channel-textarea {
+	border-top: 0px!important;
+}
+
+.theme-dark .chat form {
+	border-top: 0px!important;
+}
