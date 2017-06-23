@@ -1,44 +1,6 @@
 @import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/theme.css";
-@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/transparent.css";
 @import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/wideGuilds.css";
 @import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/highlightJS.css";
-@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/autoMemberlist.css";
-
 @import "https://rawgit.com/jakeoid/discord-emoji-anim/master/stylesheet.css";
-
-
-.app {
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-.app .layers {
-    background-color: rgba(0, 0, 0, 0.85)!important;
-}
-
-
-.message-group-blocked {
-    display: none;
-}
-
-:root{
-    --code-font: "Fira Code Medium";
-}
-
-/*this is my code for the line before names*/
-.comment .user-name:before {
-    color: rgba(inherit, inherit, inherit, 0);
-    content: '	 ';
-    border-left: solid 3px;
-    border-radius: 5px;
-    margin-right: 3px
-}
-
-/*
-Fix for userlist color
-*/
-
-.channel-members-wrap {
-	background: rgba(0, 0, 0, 0.5);
-}
+@import "https://rawgit.com/ConnerItayi/Personal-MyDiscord-Plugin-List/master/Theme%201/Transparency.css";
+@import "https://rawgit.com/ConnerItayi/Personal-MyDiscord-Plugin-List/master/Theme%201/AutoHideUserList.css;
