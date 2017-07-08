@@ -6,3 +6,8 @@
 @import "https://rawgit.com/ConnerItayi/Personal-MyDiscord-Plugin-List/master/Global/NameLineColor.css";
 
 .app { background: rgba(0, 0, 0, 0.75); }
+body {
+  background: url("https://i.alexflipnote.xyz/1f9a3d.jpg");
+  background-size: cover; background-attachment: fixed;
+  background-position: center; background-repeat: no-repeat;
+}
