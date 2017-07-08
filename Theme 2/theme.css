@@ -1,0 +1,8 @@
+@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/theme.css";
+@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/autoMemberlist.css";
+@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/highlightJS.css";
+@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/statusPopout.css";
+@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/transparent.css";
+@import "https://rawgit.com/ConnerItayi/Personal-MyDiscord-Plugin-List/master/Global/NameLineColor.css";
+
+.app { background: rgba(0, 0, 0, 0.75); }
