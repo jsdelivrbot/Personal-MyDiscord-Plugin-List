@@ -2,15 +2,5 @@
 @import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/autoMemberlist.css";
 @import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/highlightJS.css";
 @import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/statusPopout.css";
-@import "https://rawgit.com/AlexFlipnote/Discord_Theme/master/assets/transparent.css";
+@import "https://rawgit.com/ConnerItayi/Personal-MyDiscord-Plugin-List/master/Theme%201/Transparency.css";
 @import "https://rawgit.com/ConnerItayi/Personal-MyDiscord-Plugin-List/master/Global/NameLineColor.css";
-
-.app {
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center center;
-}
-
-.app .layers {
-    background-color: rgba(0, 0, 0, 0.85)!important;
-}
